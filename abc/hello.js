@@ -1,0 +1,1 @@
+// this is a simple js file and file name is apple.txt
